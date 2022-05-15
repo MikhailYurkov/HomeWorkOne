@@ -1,4 +1,4 @@
-package HomeWorkOne;
+package git@github.com:MikhailYurkov/HomeWorkOne.git;
 
 import java.util.concurrent.ThreadLocalRandom;
 
