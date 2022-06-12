@@ -246,4 +246,5 @@ public class TicTacToe {
             } else countDiagonalB = 0;
         }
         return false;
-    }}
+    }
+}
