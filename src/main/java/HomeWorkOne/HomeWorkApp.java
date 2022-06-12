@@ -12,6 +12,7 @@ public class HomeWorkApp {
         printColor();
         System.out.println("Çàäàíèå 5:");
         compareNumbers();
+
     }
 
     private static void printThreeWords() {
